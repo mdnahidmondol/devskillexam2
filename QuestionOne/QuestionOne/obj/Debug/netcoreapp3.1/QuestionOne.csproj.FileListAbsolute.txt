@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\exam 2\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\exam 2\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\exam 2\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\exam 2\QuestionOne\QuestionOne\obj\Debug\netcoreapp3.1\QuestionOne.csproj.CoreCompileInputs.cache
